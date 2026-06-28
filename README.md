@@ -14,7 +14,7 @@ JavaScript
 jQuery
 Bootstrap
 Project Live Location 🌐
-You can access the live version of this project at Password Strength Checker. Try it out and enhance your password security!
+You can access the live version of this project at https://password-strength.vercel.app/. Try it out and enhance your password security!
 
 📧 *Get in Touch For inquiries, collaboration, or just to say hello, reach out to us at 📩 poonamhalpati46@gmail.com
 
